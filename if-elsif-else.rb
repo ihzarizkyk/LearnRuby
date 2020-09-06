@@ -5,7 +5,6 @@ filename : if-elsif-else.rb
 
 a = 10
 b = 10
-c = 5
 
 if a > b
 	puts "a lebih dari b"
