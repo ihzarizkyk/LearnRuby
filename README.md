@@ -4,6 +4,7 @@
 ### Install Ruby on Linux (Debian, Ubuntu, etc.)
 
 > sudo apt-get update
+
 > sudo apt-get install ruby-full
 
 ### Run Ruby On Terminal
