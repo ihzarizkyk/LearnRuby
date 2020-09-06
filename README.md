@@ -9,7 +9,9 @@
 ### Run Ruby On Terminal
 
 > irb
+
 > puts "Hello World"
+
 > ctrl+d (close irb)
 
 ### Execute file ruby
