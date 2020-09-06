@@ -18,3 +18,7 @@
 ### Execute file ruby
 
 > ruby file_name.rb
+
+### Ekstensi File
+
+> .rb
