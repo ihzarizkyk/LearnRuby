@@ -19,3 +19,12 @@ arr = [1,2,3,4]
 for i in arr do
 	puts i
 end
+
+# Until
+
+sampai = 1
+
+until sampai == 10
+	sampai += 1
+	puts sampai
+end
